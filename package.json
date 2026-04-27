@@ -1,5 +1,5 @@
 {
-  "name": "svc-facs-miningos-net",
+  "name": "@tetherto/svc-facs-miningos-net",
   "version": "1.0.0",
   "description": "SVC Facility MiningOS Net",
   "keywords": [
