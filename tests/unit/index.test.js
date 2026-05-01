@@ -2,7 +2,7 @@
 
 const test = require('brittle')
 const path = require('path')
-const Base = require('bfx-facs-base')
+const Base = require('@bitfinex/bfx-facs-base')
 const MiningOSNetFacility = require('../../index.js')
 
 // Store original init method

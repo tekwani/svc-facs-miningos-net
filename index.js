@@ -1,6 +1,6 @@
 'use strict'
 
-const Base = require('bfx-facs-base')
+const Base = require('@bitfinex/bfx-facs-base')
 
 class MiningOSNetFacility extends Base {
   constructor (caller, opts, ctx) {
